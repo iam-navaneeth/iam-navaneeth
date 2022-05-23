@@ -6,6 +6,7 @@
 Here are some ideas to get you started: 
 -->
 
+- ✨ I'm passionate in technology and startups
 - 🔭 I’m currently working on static web development
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on static websites and flutter projects
