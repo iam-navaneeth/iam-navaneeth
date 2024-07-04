@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=iam-navaneeth)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iam-navaneeth&theme=onedark)](https://github.com/iam-navaneeth/github-profile-trophy)
